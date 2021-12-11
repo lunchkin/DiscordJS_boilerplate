@@ -1,0 +1,9 @@
+{
+    "strangeMessages": [
+        "This is a strange message",
+        "This is a different strange message",
+        "Messages that contain USERNAME will have the username replaced with the user's name.",
+        "Suspicious activity logged.",
+        "Email sent."
+    ]
+}
